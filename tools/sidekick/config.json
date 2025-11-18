@@ -2,5 +2,5 @@
   "project": "Rematrícula Antecipada | Uniderp",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "host": "https://rematricula.uniderp.com.br"
+  "host": "rematricula.uniderp.com.br"
 }
